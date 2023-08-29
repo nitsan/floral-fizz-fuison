@@ -10,3 +10,10 @@
 .musky {
     width: 300px;
 }
+.alert {
+    margin: 0;
+    padding: 2px;
+}
+.main-color {
+    color: #f3bea2;
+}

@@ -6,4 +6,5 @@
 4. fix buy button
 5. margin accordion
 6. add favicon
-7. publish
+7. publish - V
+8. mobile support
